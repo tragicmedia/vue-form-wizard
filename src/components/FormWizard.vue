@@ -474,4 +474,4 @@
     }
   }
 </script>
-<style lang="scss" src="./assets/wizard.scss"></style>
+<style lang="scss" src="../assets/wizard.scss"></style>
