@@ -474,4 +474,12 @@
     }
   }
 </script>
-<style lang="scss" src="../assets/wizard.scss"></style>
+<!--<style lang="scss" src="../assets/wizard.scss"></style>-->
+<style lang="scss" src="../assets/form-wizard/bs_button.scss"></style>
+<style lang="scss" src="../assets/form-wizard/bs_nav_pills.scss"></style>
+<style lang="scss" src="../assets/form-wizard/bs_progress_bar.scss"></style>
+<style lang="scss" src="../assets/form-wizard/variables.scss"></style>
+<style lang="scss" src="../assets/form-wizard/mixins.scss"></style>
+<style lang="scss" src="../assets/form-wizard/buttons.scss"></style>
+<style lang="scss" src="../assets/form-wizard/navs-pagination.scss"></style>
+<style lang="scss" src="../assets/form-wizard/wizard-card.scss"></style>
