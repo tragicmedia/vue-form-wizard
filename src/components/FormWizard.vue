@@ -474,6 +474,4 @@
     }
   }
 </script>
-<style lang="scss">
-  @import "~/../assets/wizard";
-</style>
+<style lang="scss" src="./assets/wizard.scss"></style>
